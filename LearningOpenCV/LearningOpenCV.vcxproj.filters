@@ -24,4 +24,9 @@
       <Filter>Archivos de recursos</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <Xml Include="haarcascade_eye_tree_eyeglasses.xml" />
+    <Xml Include="haarcascade_frontalface_alt.xml" />
+    <Xml Include="haarcascade_upperbody.xml" />
+  </ItemGroup>
 </Project>
